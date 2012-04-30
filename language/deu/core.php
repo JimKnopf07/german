@@ -4,7 +4,7 @@
  *
  * @copyright (c) 2008, Zikula German Translation Team
  * @link http://www.zikula.de
- * @version $Id$
+ * @version $Id: core.php 802 2009-10-10 23:06:56Z herr.vorragend $
  * @license GNU/GPL - http://www.gnu.org/copyleft/gpl.html
  */
 
